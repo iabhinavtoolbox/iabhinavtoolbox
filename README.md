@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iabhinav_kakran" target="blank"><img src="https://img.shields.io/twitter/follow/iabhinav_kakran?logo=twitter&style=for-the-badge" alt="iabhinav_kakran" /></a> </p>
 
-- 🔭 I’m currently working on [TeqCheq, String Cans](teqcheq.com, https://stringcans.com/)
+- 🔭 I’m currently working on [TeqCheq, String Cans]([https://teqcheq.com/, https://stringcans.com/)
 
 - 🌱 I’m currently learning **React Redux, React Native**
 
